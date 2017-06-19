@@ -7,5 +7,14 @@
 			"name": "Philip Newcomer",
 			"email": "contact@philipnewcomer.net"
 		}
-	]
+	],
+	"autoload": {
+		"files": [
+			"src/control-taxonomy-select.php",
+			"src/field-taxonomy-multicheck.php"
+		]
+	},
+	"require": {
+		"php": ">=7.0"
+	}
 }
