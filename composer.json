@@ -1,7 +1,7 @@
 {
 	"name": "philipnewcomer/um-taxonomy-multicheck",
 	"description": "Taxonomy Multicheck form field for Ultimate Member",
-	"license": "GPLv2",
+	"license": "GPL-2.0-or-later",
 	"authors": [
 		{
 			"name": "Philip Newcomer",
